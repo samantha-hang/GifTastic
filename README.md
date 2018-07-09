@@ -1,1 +1,1 @@
-This is Homework #5 creating a quiz with a timer. This was created with HTML/CSS/Javascript. 
+This is Homework #6 using the Giphy API. This was created with HTML/CSS/Javascript/JQuery. 
